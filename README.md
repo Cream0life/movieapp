@@ -1,7 +1,41 @@
+
+
+
+
+# MovieMax
+
+MovieMax is an innovative web application designed to enhance the movie-watching experience. It was developed as part of the ICT Capstone Projects at Humber College in 2023.
+
+## Demo
+
+Check out the video below for a comprehensive demonstration of MovieMax:
+
+[![MovieMax Demo](https://img.youtube.com/vi/8Q-5s1_E33k/0.jpg)](https://youtu.be/8Q-5s1_E33k)
+## Overview
+
+MovieMax provides a comprehensive platform for movie enthusiasts, offering detailed information on movies, including cast and crew details, synopses, release dates, and ratings. The application also features a recommendation system, user reviews, and a seamless browsing experience.
+
+## Features
+
+- **Extensive Movie Database:** Access a wide range of movies with in-depth details about each one.
+- **User Reviews and Ratings:** Read reviews from other users and provide your own ratings and comments.
+- **Recommendation System:** Get personalized movie recommendations based on your viewing history and preferences.
+- **Search Functionality:** Easily search for movies by title, genre, or other criteria.
+- **User Accounts:** Create and manage your user profile to keep track of your favorite movies and reviews.
+
+## Technologies Used
+- **React.js** 
+- **Bootstrap**
+- **HTML5**
+- **CSS3**
+- **API Integration:** The Movie Database (TMDb) API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Installation
 ## Available Scripts
 
 In the project directory, you can run:
